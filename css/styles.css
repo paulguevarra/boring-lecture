@@ -6,12 +6,13 @@ h2.intro {
   letter-spacing: 3px;
   line-height: 5;
 }
-p.intro {
+div.intro {
   font-size: 20px;
   font-style: oblique;
   font-family: monospace;
   text-align: justify;
   text-indent: 50px;
+  color: red;
 }
 img.intro {
   display: block;
@@ -19,4 +20,12 @@ img.intro {
   border-radius: 50%;
   opacity: 0.5;
   filter: alpha (opacity=50);
+}
+div.intro2 {
+  font-size: 20px;
+  font-style: oblique;
+  font-family: monospace;
+  text-align: justify;
+  text-indent: 50px;
+  color: green;
 }
