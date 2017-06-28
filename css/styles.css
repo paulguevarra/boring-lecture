@@ -1,0 +1,22 @@
+h2.intro {
+  color: purple;
+  text-transform: uppercase;
+  text-decoration: underline;
+  text-align: center;
+  letter-spacing: 3px;
+  line-height: 5;
+}
+p.intro {
+  font-size: 20px;
+  font-style: oblique;
+  font-family: monospace;
+  text-align: justify;
+  text-indent: 50px;
+}
+img.intro {
+  display: block;
+  margin: auto;
+  border-radius: 50%;
+  opacity: 0.5;
+  filter: alpha (opacity=50);
+}
